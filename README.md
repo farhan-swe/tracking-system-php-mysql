@@ -134,7 +134,7 @@ if ($conn->connect_error) {
 - Download or clone the tracking-system-php-mysql project
 
 ```
-https://github.com/khdxsohee/tracking-system-php-mysql.git
+https://github.com/farhan-swe/tracking-system-php-mysql.git
 ```
 
 
