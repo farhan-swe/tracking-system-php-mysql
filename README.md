@@ -7,7 +7,7 @@
 
 - Customers to track order status using a 6-character order ID
 
-- Real-time updates on payment and delivery status
+- Real-time updates on payment and delivery status 
 
 # Screenshots
 ---
